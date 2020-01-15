@@ -78,49 +78,49 @@ public class Statistics {
     }
 
     private double setStrength(double strength) {
-        strength = this.strength;
+        this.strength = strength;
     }
 
     private void setAgility(double agility) {
-        agility = this.agility;
+        this.agility = agility;
     }
 
     private void setIntelligence(double intelligence) {
-        intelligence = this.intelligence;
+        this.intelligence = intelligence;
     }
 
     private void setLuck(double luck) {
-        luck = this.luck;
+        this.luck = luck;
     }
 
     private void setHealth(double health) {
-        health = this.health;
+        this.health = health;
     }
 
     private void setDamage(double damage) {
-        damage = this.damage;
+        this.damage = damage;
     }
 
     private void setBlock(double block) {
-        block = this.block;
+        this.block = block;
     }
 
     private void setDodge(double dodge) {
-        dodge = this.dodge;
+        this.dodge = dodge;
     }
 
     private void setArmor(double armor) {
-        armor = this.armor;
+        this.armor = armor;
     }
 
     private void setSpellRes(double spellRes) {
-        spellRes = this.spellRes;
+        this.spellRes = spellRes;
     }
 
     private void setSpellAmp(double spellAmp) {
-        spellAmp = this.spellAmp;
+        this.spellAmp = spellAmp;
     }
 
     private void setCritChance(double critChance) {
-        critChance = this.critChance;
+        this.critChance = critChance;
 }
